@@ -2,7 +2,7 @@
 
 <p>
   <a >
-    <img height = "200" width="400" alt="Lynx" src="https://github.com/Swiftful/PasswordGenerator/blob/main/icon.png" />
+    <img height = "200" width="400" alt="Lynx" src="/icon.png" />
   </a>
 </p>
 
