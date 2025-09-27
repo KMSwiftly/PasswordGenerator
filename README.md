@@ -2,7 +2,7 @@
 
 <p>
   <a >
-    <img height = "200" width="400" alt="Lynx" src="/icon.png1" />
+    <img height = "200" width="400" alt="Lynx" src="/icon.png" />
   </a>
 </p>
 
